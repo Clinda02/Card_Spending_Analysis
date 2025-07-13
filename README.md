@@ -31,5 +31,5 @@
 
 ## 분석 도구
 
-* **Python***(Selenium, Pandas, matplotlib, Sklearn)
+* **Python**(Selenium, Pandas, matplotlib, Scikit learn)
 * **Excel** (회귀분석)
