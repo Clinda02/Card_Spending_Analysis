@@ -14,7 +14,7 @@
 | :------------------------- | :-------------------------------------------- | :------------------ |
 | 여신금융협회               | [신용카드 이용실적 데이터](https://www.crefia.or.kr/portal/infocenter/statistics/creditcardMonthResultUpdateView.xx)                               | 2023.02 ~ 2024.11   |
 | 카드고릴라                 | [월별 신용카드 Top30 순위 데이터](https://www.card-gorilla.com/chart/top100)         | 2023.02 ~ 2024.12   |
-| 서울시 빅데이터 캠퍼스     | 서울 시민 소비 및 이동 패턴 데이터            | 2022.07 ~ 2022.09   |
+| 서울시 빅데이터 캠퍼스     | [서울 시민 소비 및 이동 패턴 데이터](https://bigdata.seoul.go.kr/data/selectSampleData.do?r_id=P213&sample_data_seq=331)            | 2022.07 ~ 2022.09   |
 
 ## 분석 단계
 0. **데이터 수집** : 카드고릴라 Selenium 동적 웹크롤링 ([코드 바로가기](https://github.com/Clinda02/Selenium_Crawling))
